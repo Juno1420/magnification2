@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Maginification2", "Maginification2.vcxproj", "{B4206710-E758-3589-9178-F3C71F79AE65}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4206710-E758-3589-9178-F3C71F79AE65}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B4206710-E758-3589-9178-F3C71F79AE65}.Debug|Win32.Build.0 = Debug|Win32
+		{B4206710-E758-3589-9178-F3C71F79AE65}.Release|Win32.ActiveCfg = Release|Win32
+		{B4206710-E758-3589-9178-F3C71F79AE65}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,3 @@
+C:\opencv\MinGw\lib\libopencv_core249.dll.a
+C:\opencv\MinGw\lib\libopencv_highgui249.dll.a
+C:\opencv\MinGw\lib\libopencv_imgproc249.dll.a
